@@ -7,6 +7,7 @@ package techjourney.arrays;
  * Return the missing number.
  */
 public class MissingNumber {
+
     public static void main(String[] args) {
         int arr[] = new int[]{4,1,6,8,12,11,2,3,10,5,9}; //Length = 12, missing number = 7
         int arr1[] = new int[]{4,1,6,8,7,11,2,3,10,5,9}; //Length = 12, missing number = 12
