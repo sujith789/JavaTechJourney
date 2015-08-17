@@ -23,7 +23,7 @@ public class MaximumSumSubsequence {
     int maximumSum = 0;
     int sequenceSum = 0;
 
-        for(Integer num:arr)
+        for(int num:arr)
         {
             sequenceSum = sequenceSum + num;
             if(maximumSum<sequenceSum)
