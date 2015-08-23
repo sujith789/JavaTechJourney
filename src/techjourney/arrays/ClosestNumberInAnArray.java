@@ -1,7 +1,7 @@
 package techjourney.arrays;
 
 /**
- * Created by SujithMohan on 8/22/2015.
+ * Created by Sujith Mohan on 8/22/2015.
  *
  * Problem: Given an array and an Integer. Return the closest number in array for that Integer.
  * for eg: Int: 7 Array: (3,8,12,5) -> 8 is the closest number
